@@ -1,0 +1,10 @@
+{
+  "name": "Uroki",
+  "id": "ru.hamster768.uroki",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "minSdk": 24,
+  "targetSdk": 35,
+  "template": "kotlin",
+  "uiTemplate": "starter"
+}
